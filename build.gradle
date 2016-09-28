@@ -44,7 +44,3 @@ dependencyManagement {
     mavenBom "org.springframework.boot.experimental:spring-boot-dependencies-web-reactive:0.1.0.BUILD-SNAPSHOT"
   }
 }
-
-/*run {
-    jvmArgs = ['-Xdebug', '-Xrunjdwp:server=y,transport=dt_socket,address=5006,suspend=y']
-}*/
